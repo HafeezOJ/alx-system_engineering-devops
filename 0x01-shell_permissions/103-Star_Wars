@@ -1,2 +1,2 @@
- sudo apt-get install mplayer
- mplayer StarWars_IV
+#!/bin/bash
+telnet towel.blinkenlights.nl
